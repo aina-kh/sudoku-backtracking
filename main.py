@@ -111,6 +111,6 @@ puzzle_2 = [
     [0, 0, 0, 2, 5, 0, 3, 0, 4]
 ]
 
-# calling print_solved solution for two different input puzzles
+# calling print_solved function for two different input puzzles
 print_solved(puzzle_1)
 print_solved(puzzle_2)
